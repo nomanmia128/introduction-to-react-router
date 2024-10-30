@@ -1,0 +1,11 @@
+nav a {
+    margin-right: 20px;
+}
+
+nav a.active{
+    text-decoration: underline;
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+}
